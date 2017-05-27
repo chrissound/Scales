@@ -1,0 +1,10 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- Scales
+- ScalesDemo
+extra-deps:
+- blaze-0.0.2
+- digestive-functors-0.8.2.0
+- digestive-functors-scotty-0.2.0.2
+resolver: lts-8.6
